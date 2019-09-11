@@ -1,0 +1,14 @@
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\bin\Release\ExcelAddIn1.dll
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\bin\Release\ExcelAddIn1.pdb
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\bin\Release\ExcelAddIn1.dll.manifest
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\bin\Release\ExcelAddIn1.vsto
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.csprojAssemblyReference.cache
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.Properties.Resources.resources
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.ShowSomething.resources
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.UserRibbon.resources
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.csproj.GenerateResource.cache
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.csproj.CoreCompileInputs.cache
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.csproj.CopyComplete
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.dll
+E:\MyFiles\projects\visual Studio\ExcelAddIn1\ExcelAddIn1\obj\Release\ExcelAddIn1.pdb
